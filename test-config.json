@@ -1,0 +1,13 @@
+{
+  "name": "TestName_001",
+  "version": "0.0.1",
+  "retryThreshold": 5,
+  "mem": 512,
+  "debug": false,
+  "maintainers": [
+    "Phil": "Dunphy",
+    "Dwight": "Schrute",
+    "Raymond": "Holt",
+    "Leslie": "Knope",
+  ]
+}
